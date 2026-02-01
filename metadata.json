@@ -1,0 +1,9 @@
+{
+  "name": "ZNFX-2",
+  "description": "A sophisticated online platform for satellite and UAV imagery interpretation, featuring automated land cover classification, crop identification, and change detection powered by advanced AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
